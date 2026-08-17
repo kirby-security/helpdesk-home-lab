@@ -68,4 +68,4 @@ The hostname now resolved to a public IP address instead of '127.0.0.1', confirm
 ![Hostname resolving to a public IP address after remediation](../screenshots/ticket03-resolution-verification.png)
 
 ## Key Takeaways
-The key factor in my decision-making was the user-provided detail that they were able to access other websites despite being unable to connect to example.com. Listening to and testing the user's information was critical to the troubleshooting process, as it helped eliminate unnecessary diagnostics. This led me to identify a misconfiguration in the hosts file, which was resolved quickly thanks to the information provided by the user.
+The key factor in my decision-making was the user-provided detail that they were able to access other websites despite being unable to connect to example.com. Listening to and testing the user's information was critical to the troubleshooting process, as it helped eliminate unnecessary diagnostics. This led me to identify a misconfiguration in the hosts file, which was resolved quickly, again, thanks to the information provided by the user.
